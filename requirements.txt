@@ -1,0 +1,6 @@
+#conda activate ./ima_c
+streamlit==1.48.0
+numpy==2.1.3
+tensorflow==2.20.0
+matplotlib==3.10.5
+scikit-learn==1.7.1
