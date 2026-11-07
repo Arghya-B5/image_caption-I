@@ -50,3 +50,7 @@ sns.set_style("dark")
 
 # Warning Settings
 warnings.filterwarnings("ignore")
+
+data = text_preprocessing(data)
+captions = data['caption'].tolist()
+captions[:10]
