@@ -5,3 +5,6 @@ __pycache__/
 .venv/
 env/
 .env
+
+src
+feature_extractor.keras
