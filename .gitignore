@@ -6,5 +6,6 @@ __pycache__/
 env/
 .env
 
-src
-feature_extractor.keras
+
+src/main.py
+models/feature_extractor.keras
