@@ -41,4 +41,3 @@ Model Files
 - model.keras: Caption generation model.
 - feature_extractor.keras: Image feature extraction model.
 - tokenizer.pkl: Text tokenizer used during training.
-Note: Ensure all model files are available inside the models directory before running the application.
