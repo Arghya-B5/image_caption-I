@@ -37,7 +37,3 @@ How It Works
 4. Extracts image features.
 5. Generates captions word by word.
 6. Displays the generated caption.
-Model Files
-- model.keras: Caption generation model.
-- feature_extractor.keras: Image feature extraction model.
-- tokenizer.pkl: Text tokenizer used during training.
