@@ -30,10 +30,3 @@ streamlit run app.py
 
 
 Open http://localhost:8501 in your browser.
-How It Works
-1. Loads the trained model, feature extractor, and tokenizer.
-2. Accepts an image uploaded by the user.
-3. Resizes the image to 224 × 224 pixels.
-4. Extracts image features.
-5. Generates captions word by word.
-6. Displays the generated caption.
