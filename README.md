@@ -25,8 +25,3 @@ Installation
 pip install streamlit tensorflow numpy pillow
 
 
-Run Application
-streamlit run app.py
-
-
-Open http://localhost:8501 in your browser.
